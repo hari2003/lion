@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="helloworld" default="compile">
+<target name="compile">
+<echo>hello world-welcome!</echo>
+</target>
+</project>
